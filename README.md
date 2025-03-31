@@ -6,7 +6,8 @@
 - add spreadsheet of measure status 
 - add list of decisions about git repo 
 - add list of git and R resources 
-- send out github workplan 
+- send github workplan to gl
+- send github workplan to team (inc scheduling)  
 - cover letter for dsi job 
 - apply for dsi job 
 
