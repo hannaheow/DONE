@@ -1,16 +1,19 @@
 # TO DO 
 
-## April 2, 2025
-- fix current repo: move things onto dev_how and off of main  
-- add list of git and R resources 
-- send github workplan and spreadsheet to gl
-- send github workplan to team (inc scheduling)
-- make a linkedin
-- *outline disparity domain paper
-- *outline disparity domain lit review 
+## April 3, 2025
+- outline disparity domain paper
+- outline disparity domain lit review
+- *fix filepaths in dev_how branch (switch duplicated_data to measure_datasets and raw_data to inputs) 
+- read bennet jl et al in lancet 2015 as recommended by sste
+- read macintyre, ellaway, cummins in soc sci med 2022 as recommended by sste
+- read jamie pearce on life course of place, work on selective migration and health in the uk as recommended by sste
+- *make a linkedin
+
 
 # DONE 
 ## April 2, 2025
+- fix current repo: move things onto dev_how and off of main  
+- send github workplan and spreadsheet to gl and cm
 
 ## April 1, 2025 
 - check in w kate
