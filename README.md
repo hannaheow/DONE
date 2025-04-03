@@ -1,6 +1,6 @@
 # TO DO 
 
-## April 3, 2025
+## April 4, 2025
 - outline disparity domain paper
 - outline disparity domain lit review
 - *fix filepaths in dev_how branch (switch duplicated_data to measure_datasets and raw_data to inputs) 
@@ -8,9 +8,15 @@
 - read macintyre, ellaway, cummins in soc sci med 2022 as recommended by sste
 - read jamie pearce on life course of place, work on selective migration and health in the uk as recommended by sste
 - *make a linkedin
+- ira decision
+- madnorski decision 
 
 
 # DONE 
+## April 3, 2025
+- email Tu
+- rollerblades 
+
 ## April 2, 2025
 - fix current repo: move things onto dev_how and off of main  
 - send github workplan and spreadsheet to gl and cm
