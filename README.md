@@ -1,8 +1,9 @@
 # TO DO 
 
-## April 4, 2025
+## April 7, 2025
 - disparity domain methods section
-- disparity domain results section 
+- disparity domain results section
+- add some bullet point literature to the disparity domain lit review section 
 - *fix filepaths in dev_how branch (switch duplicated_data to measure_datasets and raw_data to inputs) 
 - read bennet jl et al in lancet 2015 as recommended by sste
 - read macintyre, ellaway, cummins in soc sci med 2022 as recommended by sste
