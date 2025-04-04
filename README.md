@@ -1,8 +1,8 @@
 # TO DO 
 
 ## April 4, 2025
-- outline disparity domain paper
-- outline disparity domain lit review
+- disparity domain methods section
+- disparity domain results section 
 - *fix filepaths in dev_how branch (switch duplicated_data to measure_datasets and raw_data to inputs) 
 - read bennet jl et al in lancet 2015 as recommended by sste
 - read macintyre, ellaway, cummins in soc sci med 2022 as recommended by sste
@@ -13,6 +13,11 @@
 
 
 # DONE 
+
+## April 4, 2025
+- outline disparity domain paper
+- set up disparity domain check in
+  
 ## April 3, 2025
 - email Tu
 - rollerblades 
