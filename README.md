@@ -1,19 +1,29 @@
 # TO DO 
 
-## April 7, 2025
+## April 8, 2025
+- study up on helsinki interview committee
+- helsinki presentation
 - disparity domain methods section
 - disparity domain results section
 - add some bullet point literature to the disparity domain lit review section 
 - *fix filepaths in dev_how branch (switch duplicated_data to measure_datasets and raw_data to inputs) 
+
+aim2 (when time)
 - read bennet jl et al in lancet 2015 as recommended by sste
 - read macintyre, ellaway, cummins in soc sci med 2022 as recommended by sste
 - read jamie pearce on life course of place, work on selective migration and health in the uk as recommended by sste
+
+Personal 
+- uw data scientist job 
 - *make a linkedin
 - ira decision
 - madnorski decision 
 
 
 # DONE 
+
+## April 7, 2025 
+- n4bw comments 
 
 ## April 4, 2025
 - outline disparity domain paper
