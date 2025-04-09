@@ -1,11 +1,13 @@
 # TO DO 
 
-## April 8, 2025
-- study up on helsinki interview committee
-- helsinki presentation
+## April 9, 2025
+- request time off for susan 
 - disparity domain methods section
-- disparity domain results section
-- add some bullet point literature to the disparity domain lit review section 
+- disparity domain alternative measures 
+- add some bullet point literature to the disparity domain lit review section
+
+chrr measure calcs
+- gl's pull request 
 - *fix filepaths in dev_how branch (switch duplicated_data to measure_datasets and raw_data to inputs) 
 
 aim2 (when time)
@@ -14,13 +16,19 @@ aim2 (when time)
 - read jamie pearce on life course of place, work on selective migration and health in the uk as recommended by sste
 
 Personal 
-- uw data scientist job 
 - *make a linkedin
 - ira decision
 - madnorski decision 
 
 
 # DONE 
+## April 8, 2025
+- disparity domain agenda
+- disparity domain scheduling
+- apply for uw data scientist job 
+- study up on helsinki interview committee
+- helsinki presentation
+
 
 ## April 7, 2025 
 - n4bw comments 
