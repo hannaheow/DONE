@@ -1,14 +1,15 @@
 # TO DO 
 
-## April 9, 2025
-- request time off for susan 
+## April 10, 2025
 - disparity domain methods section
 - disparity domain alternative measures 
 - add some bullet point literature to the disparity domain lit review section
 
 chrr measure calcs
-- gl's pull request 
-- *fix filepaths in dev_how branch (switch duplicated_data to measure_datasets and raw_data to inputs) 
+- gl's pull request
+- *fix filepaths in dev_how branch (switch duplicated_data to measure_datasets and raw_data to inputs)
+- add admin type documentation to at least one measure calc
+- make a pull request for at least one measure calc 
 
 aim2 (when time)
 - read bennet jl et al in lancet 2015 as recommended by sste
@@ -18,10 +19,19 @@ aim2 (when time)
 Personal 
 - *make a linkedin
 - ira decision
-- madnorski decision 
+- attend some shiny conf 
 
 
 # DONE 
+## April 10, 2025 
+
+## April 9, 2025
+- helsinki interview!
+- request time off for susan
+- christine's template updates
+- first archive meeting
+- more n4bw comments 
+
 ## April 8, 2025
 - disparity domain agenda
 - disparity domain scheduling
