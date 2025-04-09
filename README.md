@@ -1,12 +1,12 @@
 # TO DO 
 
 ## April 10, 2025
-- disparity domain methods section
+- **disparity domain methods section**
 - disparity domain alternative measures 
 - add some bullet point literature to the disparity domain lit review section
 
 chrr measure calcs
-- gl's pull request
+- **gl's pull request**
 - *fix filepaths in dev_how branch (switch duplicated_data to measure_datasets and raw_data to inputs)
 - add admin type documentation to at least one measure calc
 - make a pull request for at least one measure calc 
@@ -19,7 +19,7 @@ aim2 (when time)
 Personal 
 - *make a linkedin
 - ira decision
-- attend some shiny conf 
+- **attend some shiny conf** 
 
 
 # DONE 
