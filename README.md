@@ -9,9 +9,7 @@ chrr measure calcs
 - *fix filepaths in dev_how branch (switch duplicated_data to measure_datasets and raw_data to inputs)
 - add admin type documentation to at least one measure calc
 - make a pull request for at least one measure calc
-- add chrr fipscodes to inputs folder
-- edit/check migration work plan
-- migration data proposal? 
+- new state/county level migration data proposal? 
 
 aim2 (when time)
 - read bennet jl et al in lancet 2015 as recommended by sste
@@ -28,7 +26,9 @@ Personal
 
 # DONE
 ## April 14, 2025 
-- 
+- add chrr fipscodes to inputs folder
+- edit/check migration work plan
+- sf plans
 
 
 ## April 11, 2025
