@@ -1,6 +1,6 @@
 # TO DO 
 
-## April 11, 2025
+## April 14, 2025
 - **disparity domain methods section**
 - disparity domain alternative measures - examine 1 measure 
 - add some bullet point literature to the disparity domain lit review section
@@ -8,7 +8,10 @@
 chrr measure calcs
 - *fix filepaths in dev_how branch (switch duplicated_data to measure_datasets and raw_data to inputs)
 - add admin type documentation to at least one measure calc
-- make a pull request for at least one measure calc 
+- make a pull request for at least one measure calc
+- add chrr fipscodes to inputs folder
+- edit/check migration work plan
+- migration data proposal? 
 
 aim2 (when time)
 - read bennet jl et al in lancet 2015 as recommended by sste
@@ -18,9 +21,21 @@ aim2 (when time)
 Personal 
 - *make a linkedin
 - ira decision
-- attend shiny conf 
+- commuter brakes
+- essa2c decision
+- piper
+- wall hangings 
 
-# DONE 
+# DONE
+## April 14, 2025 
+- 
+
+
+## April 11, 2025
+- attend shiny conf
+- more n4bw stuff
+- check in w susan
+  
 ## April 10, 2025 
 - gl's pull request
 - attend shiny conf 
