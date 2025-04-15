@@ -1,15 +1,13 @@
 # TO DO 
 
-## April 14, 2025
-- **disparity domain methods section**
-- disparity domain alternative measures - examine 1 measure 
-- add some bullet point literature to the disparity domain lit review section
+## Endless list 
 
-chrr measure calcs
-- *fix filepaths in dev_how branch (switch duplicated_data to measure_datasets and raw_data to inputs)
-- add admin type documentation to at least one measure calc
-- make a pull request for at least one measure calc
-- new state/county level migration data proposal? 
+chrr 
+- new state/county level migration data proposal?
+- **disparity domain methods section**
+- disparity domain alternative measures
+- examine 1 alternative measure 
+- add some bullet point literature to the disparity domain lit review section
 
 aim2 (when time)
 - read bennet jl et al in lancet 2015 as recommended by sste
@@ -22,9 +20,26 @@ Personal
 - commuter brakes
 - essa2c decision
 - piper
-- wall hangings 
+- wall hangings
+- DC flight 
+
+## April 16, 2025 
+- add git/github training materials
+- schedule git/github tutorial
+- ask for team contribu to measure status spreadsheet 
+- fix filepaths in dev_how branch (switch duplicated_data to measure_datasets and raw_data to inputs)
+- add admin type documentation to at least one measure calc
+- make a pull request for at least one measure calc
+- TAC budget reconfig
+- TAC info prep 
 
 # DONE
+
+## April 15, 2025
+- updates to measure status document
+- initial meeting for github archive work group
+- final n4bw shenanigans 
+  
 ## April 14, 2025 
 - add chrr fipscodes to inputs folder
 - edit/check migration work plan
