@@ -38,7 +38,8 @@ Personal
 ## April 15, 2025
 - updates to measure status document
 - initial meeting for github archive work group
-- final n4bw shenanigans 
+- final n4bw shenanigans
+- dc lodging
   
 ## April 14, 2025 
 - add chrr fipscodes to inputs folder
