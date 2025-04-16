@@ -30,10 +30,14 @@ Personal
 - fix filepaths in dev_how branch (switch duplicated_data to measure_datasets and raw_data to inputs)
 - add admin type documentation to at least one measure calc
 - make a pull request for at least one measure calc
-- TAC budget reconfig
-- TAC info prep 
+
 
 # DONE
+## April 16, 2025 
+- TAC budget reconfig
+- TAC info prep
+- prework for COP
+- COP first meeting 
 
 ## April 15, 2025
 - updates to measure status document
