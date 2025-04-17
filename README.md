@@ -4,11 +4,8 @@
 
 chrr 
 - new state/county level migration data proposal?
-- **disparity domain methods section**
-- disparity domain alternative measures
-- examine 1 alternative measure 
-- add some bullet point literature to the disparity domain lit review section
-
+- ask andrew to trial run github doc 
+  
 aim2 (when time)
 - read bennet jl et al in lancet 2015 as recommended by sste
 - read macintyre, ellaway, cummins in soc sci med 2022 as recommended by sste
@@ -19,31 +16,42 @@ Personal
 - ira decision
 - commuter brakes
 - essa2c decision
-- piper
 - wall hangings
-- DC flight 
+- DC flight
+- tac photos
 
-## April 16, 2025 
-- add git/github training materials
-- schedule git/github tutorial
-- ask for team contribu to measure status spreadsheet 
+## April 21, 2025 
 - fix filepaths in dev_how branch (switch duplicated_data to measure_datasets and raw_data to inputs)
 - add admin type documentation to at least one measure calc
 - make a pull request for at least one measure calc
-
+- **disparity domain methods section**
+- disparity domains calcs of brfss measure
+- make outline of lit review section more precise
 
 # DONE
+
+## April 17, 2025
+- leave request
+- meet w h
+- clarify brfss confusion w kg
+- add git/github training materials
+- schedule git/github tutorial
+- ask for team contribu to measure status spreadsheet
+- archival meeting 
+
+
 ## April 16, 2025 
 - TAC budget reconfig
 - TAC info prep
 - prework for COP
-- COP first meeting 
+- COP first meeting
 
 ## April 15, 2025
 - updates to measure status document
 - initial meeting for github archive work group
 - final n4bw shenanigans
 - dc lodging
+- piper
   
 ## April 14, 2025 
 - add chrr fipscodes to inputs folder
